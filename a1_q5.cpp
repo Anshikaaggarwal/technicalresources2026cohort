@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace.std;
+using namespace std;
 int main()
 {
     int n, n1, count = 0;
